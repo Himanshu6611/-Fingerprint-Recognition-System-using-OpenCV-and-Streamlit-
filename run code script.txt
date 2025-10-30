@@ -1,0 +1,1 @@
+ streamlit run fingerprint_app_improved.py
