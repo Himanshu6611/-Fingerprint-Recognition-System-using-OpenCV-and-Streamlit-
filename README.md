@@ -1,4 +1,5 @@
 🧩 Fingerprint Recognition System using OpenCV and Streamlit
+
 🎯 Project Overview
 
 This project demonstrates a minutiae-based fingerprint recognition system built with OpenCV, NumPy, scikit-image, and Streamlit.
